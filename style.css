@@ -1,0 +1,15 @@
+* {
+    color: darkred;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}
+
+button {
+    font-size: 20px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    border: 1px solid black;
+}
